@@ -29,7 +29,8 @@ table{
     margin: auto;
     background-color: aliceblue;
     box-shadow: 3px 3px 7px rgba(0, 0, 255, 0.062);
-
+    max-width: 375px;
+    max-height : 667px
 }
 
 
