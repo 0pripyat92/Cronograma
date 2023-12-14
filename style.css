@@ -23,14 +23,16 @@ h4{
 
 table{
     margin: auto;
-background-color: aliceblue;
-box-shadow: 3px 3px 7px rgba(0, 0, 255, 0.062);
+    background-color: aliceblue;
+    box-shadow: 3px 3px 7px rgba(0, 0, 255, 0.062);
+
 }
 
 
 table>tbody>tr>td{
     padding: 0.4rem;
-    margin: 0.2rem;
+    margin: 0.4rem;
+    width: 150px;
 }
 
 a{
