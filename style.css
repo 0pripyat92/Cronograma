@@ -14,11 +14,14 @@ h1{
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     text-align: center;
     align-items: center;
+    color: rgba(0, 0, 0, 0.514);
 }
 
 h4{
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
+    color: rgba(0, 0, 0, 0.514);
+
 }
 
 table{
@@ -40,11 +43,15 @@ a{
     color: rgba(0, 0, 0, 0.445);
 }
 
+.COLUNA1{
+    text-align: center;
+}
+
 .COLUNA1:hover {
     font-size: 15px;
-    background-color: rgba(165, 42, 42, 0.075);
+    background-color: rgba(102, 79, 167, 0.116);
     border: -0.1px solid;
-    box-shadow: 3px 3px 7px rgba(0, 0, 255, 0.11);
+    box-shadow: 3px 3px 5px rgba(0, 0, 255, 0.055);
 }
 
 body{
@@ -53,7 +60,9 @@ body{
 
 .tituloCOLUNA{
 color: blue;
+text-align: center;
 font-weight: 500;
+background-color: rgba(0, 0, 255, 0.075);
 }
 
 .i{
@@ -64,10 +73,12 @@ font-weight: 500;
     color: rgba(0, 0, 255, 0.507);
     font-weight: 500;
     text-align: center;
+    background-image: linear-gradient(to right, #ffffff17, rgba(0, 0, 255, 0.116), #ffffff1e);
+
 }
 
 footer{
-    color: blue;
+    color: rgba(0, 0, 255, 0.226);
     align-items: center;
     text-align: center;
     padding-top: 20px;
