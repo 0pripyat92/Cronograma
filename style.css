@@ -43,7 +43,7 @@ a{
 td:hover {
     font-size: 15px;
     background-color: rgba(165, 42, 42, 0.075);
-    border: 0.1px solid;
+    border: -0.1px solid;
     box-shadow: 3px 3px 7px rgba(0, 0, 255, 0.11);
 }
 
