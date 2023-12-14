@@ -40,7 +40,7 @@ a{
     color: rgba(0, 0, 0, 0.445);
 }
 
-td:hover {
+.COLUNA1:hover {
     font-size: 15px;
     background-color: rgba(165, 42, 42, 0.075);
     border: -0.1px solid;
@@ -56,9 +56,14 @@ color: blue;
 font-weight: 500;
 }
 
+.i{
+    text-align: center;
+}
+
 .hora{
     color: rgba(0, 0, 255, 0.507);
     font-weight: 500;
+    text-align: center;
 }
 
 footer{
