@@ -33,14 +33,13 @@ h4{
     text-align: center;
     color: rgba(0, 0, 0, 0.514);
     padding-bottom: 0.3rem;
-
 }
 
 table{
     margin: auto;
-    background-color: aliceblue;
-    box-shadow: 3px 3px 7px rgba(0, 0, 255, 0.062);
- 
+    background-color: rgb(119, 158, 192);
+    box-shadow: 3px 3px 7px rgba(0, 0, 255, 0.055);     background-color: rgba(0, 0, 255, 0.055);
+
 }
 
 
@@ -67,14 +66,15 @@ a{
 }
 
 body{
-    background-color: rgba(0, 0, 255, 0.055);
+    background-image:linear-gradient(to right, rgba(0, 0, 255, 0.055), rgba(0, 0, 255, 0.077), rgba(0, 0, 255, 0.099), rgba(0, 0, 255, 0.109), rgba(0, 0, 255, 0.055), rgba(0, 0, 255, 0.077), rgba(0, 0, 255, 0.099) );
+
 }
 
 .tituloCOLUNA{
-color: blue;
-text-align: center;
-font-weight: 500;
-background-color: rgba(0, 0, 255, 0.075);
+    color: blue;
+    text-align: center;
+    font-weight: 500;
+    background-color: rgba(0, 0, 255, 0.075);
 }
 
 .i{
