@@ -46,10 +46,11 @@ table{
 }
 
 
-table>tbody>tr>td{
+tbody>tr>td{
     padding: 0.4rem;
     margin: 0.4rem;
     width: 150px;
+    align-items: center;
 }
 
 a{
