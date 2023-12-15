@@ -60,7 +60,7 @@ a{
 
 .COLUNA1:hover {
     font-size: 15px;
-    background-color: rgba(102, 79, 167, 0.116);
+    background-color: rgba(0, 0, 255, 0.055);
     border: -0.1px solid;
     box-shadow: 3px 3px 5px rgba(0, 0, 255, 0.055);
 }
