@@ -15,6 +15,7 @@ h1{
     text-align: center;
     align-items: center;
     color: rgba(0, 0, 0, 0.514);
+    margin: auto;
 }
 
 img{
@@ -25,6 +26,7 @@ img{
 .image{
     display: flex;
     justify-content: center;
+    margin: auto;
     align-items: self-end;
 }
 
@@ -33,6 +35,7 @@ h4{
     text-align: center;
     color: rgba(0, 0, 0, 0.514);
     padding-bottom: 0.3rem;
+    margin: auto;
 }
 
 table{
@@ -94,4 +97,5 @@ footer{
     align-items: center;
     text-align: center;
     padding: 20px;
+    margin: auto;
 }
